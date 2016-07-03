@@ -27,12 +27,11 @@
 
 
 
-#  图片与链接
+#  图片
 插入链接与插入图片的语法很像，区别在一个 !号
 
 图片为：![](){ImgCap}{/ImgCap}
-
-链接为：[]()
+！[diqiu](https://raw.githubusercontent.com/ZLBer/new/master/planet_earth_venues_univearse_jupiter%5B1%5D.png)
 
 插入图片的地址需要图床，这里推荐围脖图床修复计划 与 CloudApp 的服务，生成URL地址即可。
 # 链接
