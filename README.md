@@ -31,7 +31,7 @@
 插入链接与插入图片的语法很像，区别在一个 !号
 
 图片为：![](){ImgCap}{/ImgCap}
-！[diqiu](https://raw.githubusercontent.com/ZLBer/new/master/planet_earth_venues_univearse_jupiter%5B1%5D.png)
+  ！[diqiu](https://raw.githubusercontent.com/ZLBer/new/master/planet_earth_venues_univearse_jupiter%5B1%5D.png)
 
 插入图片的地址需要图床，这里推荐围脖图床修复计划 与 CloudApp 的服务，生成URL地址即可。
 # 链接
@@ -63,3 +63,4 @@ cout<<"Hello World"}`
 ***
 ---
 ___
+（ 我就想吐槽一下，一款叫markpad的编辑软件真他妈难用 ，还有一些免费的在线编辑器真难用！！！）
